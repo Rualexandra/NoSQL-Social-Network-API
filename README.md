@@ -11,7 +11,7 @@ Given a social network API, when I enter the command to invoke the application, 
 ## Getting Started
 1. Clone the repository:
 
-    git clone https://github.com/your-username/social-network-api.git
+    git clone https://github.com/Rualexandra/NoSQL-Social-Network-API.git
     cd social-network-api
 
 2. Install dependencies:
